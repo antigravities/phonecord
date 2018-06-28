@@ -1,0 +1,13 @@
+{
+  "accountSid": "",
+  "accountToken": "",
+  "discord": "",
+  "defaultPhone": "the default phone number to send from",
+  "myNumber": "your number",
+  "hostname": "",
+  "holdmusic": [
+    "item 1",
+    "item 2...
+  ],
+  "port": 9538
+}
